@@ -1,0 +1,40 @@
+{
+  "ads_enabled": false,
+  "ads_interstitial_interval_minutes": 10,
+  "force_update": false,
+  "min_version": "1.0.0",
+  "maintenance_mode": false,
+
+  "promos": [
+    {
+      "id": "rpp_generator",
+      "enabled": false,
+      "title": "RPP Generator — Buat RPP dalam 30 Detik!",
+      "description": "Tidak perlu repot buat RPP manual. Generate otomatis sesuai kurikulum Merdeka, langsung siap pakai.",
+      "image_url": "https://i.imgur.com/ijicWyK.png",
+      "cta_text": "Coba Gratis Sekarang",
+      "cta_url": "https://lynk.id/oghiezr/zxjox857nz71",
+      "show_on_screens": ["dashboard", "journals"]
+    },
+    {
+      "id": "GAS_WebApp_Builder ",
+      "enabled": false,
+      "title": "GAS WebApp Builder — Ubah Ide Jadi Web App dalam Menit!",
+      "description": "Kamu cuma ngetik atau curhat, lalu dalam hitungan menit, Web app kamu langsung jadi dan bisa dipakai.",
+      "image_url": "https://i.imgur.com/EvsybZB.png",
+      "cta_text": "Download Gratis",
+      "cta_url": "https://lynk.id/oghiezr/w4qoqyy2gkwq",
+      "show_on_screens": ["dashboard", "journals"]
+    },
+    {
+      "id": "Si_Ujian",
+      "enabled": false,
+      "title": "SiUjian app exambrowser hp!",
+      "description": "SiUjian adalah aplikasi ujian yang dirancang untuk membantu dalam penyelenggaraan ujian online berbasis web..",
+      "image_url": "",
+      "cta_text": "Pelajari Lebih Lanjut",
+      "cta_url": "https://play.google.com/store/apps/details?id=com.eduguard.eduguard",
+      "show_on_screens": ["dashboard", "journals"]
+    }
+  ]
+}
