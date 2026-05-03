@@ -17,8 +17,8 @@
       "show_on_screens": ["dashboard", "journals"]
     },
     {
-      "id": "GAS_WebApp_Builder ",
-      "enabled": false,
+      "id": "GAS_WebApp_Builder",
+      "enabled": true,
       "title": "GAS WebApp Builder — Ubah Ide Jadi Web App dalam Menit!",
       "description": "Kamu cuma ngetik atau curhat, lalu dalam hitungan menit, Web app kamu langsung jadi dan bisa dipakai.",
       "image_url": "https://i.imgur.com/EvsybZB.png",
@@ -28,7 +28,7 @@
     },
     {
       "id": "Si_Ujian",
-      "enabled": false,
+      "enabled": true,
       "title": "SiUjian app exambrowser hp!",
       "description": "SiUjian adalah aplikasi ujian yang dirancang untuk membantu dalam penyelenggaraan ujian online berbasis web..",
       "image_url": "",
