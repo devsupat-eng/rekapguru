@@ -8,7 +8,7 @@
   "promos": [
     {
       "id": "rpp_generator",
-      "enabled": false,
+      "enabled": true,
       "title": "RPP Generator — Buat RPP dalam 30 Detik!",
       "description": "Tidak perlu repot buat RPP manual. Generate otomatis sesuai kurikulum Merdeka, langsung siap pakai.",
       "image_url": "https://i.imgur.com/ijicWyK.png",
