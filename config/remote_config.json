@@ -8,7 +8,7 @@
   "promos": [
     {
       "id": "rpp_generator",
-      "enabled": true,
+      "enabled": false,
       "title": "RPP Generator — Buat RPP dalam 30 Detik!",
       "description": "Tidak perlu repot buat RPP manual. Generate otomatis sesuai kurikulum Merdeka, langsung siap pakai.",
       "image_url": "https://i.imgur.com/ijicWyK.png",
@@ -18,7 +18,7 @@
     },
     {
       "id": "GAS_WebApp_Builder",
-      "enabled": true,
+      "enabled": false,
       "title": "GAS WebApp Builder — Ubah Ide Jadi Web App dalam Menit!",
       "description": "Kamu cuma ngetik atau curhat, lalu dalam hitungan menit, Web app kamu langsung jadi dan bisa dipakai.",
       "image_url": "https://i.imgur.com/EvsybZB.png",
