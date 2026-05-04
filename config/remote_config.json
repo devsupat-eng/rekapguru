@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ads_interstitial_interval_minutes": 10,
   "force_update": false,
   "min_version": "1.0.0",
@@ -28,7 +28,7 @@
     },
     {
       "id": "Si_Ujian",
-      "enabled": true,
+      "enabled": false,
       "title": "SiUjian app exambrowser hp!",
       "description": "SiUjian adalah aplikasi ujian yang dirancang untuk membantu dalam penyelenggaraan ujian online berbasis web..",
       "image_url": "",
