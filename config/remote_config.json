@@ -28,7 +28,7 @@
     },
     {
       "id": "Si_Ujian",
-      "enabled": true,
+      "enabled": false,
       "title": "SiUjian app exambrowser hp!",
       "description": "SiUjian adalah aplikasi ujian yang dirancang untuk membantu dalam penyelenggaraan ujian online berbasis web..",
       "image_url": "",
